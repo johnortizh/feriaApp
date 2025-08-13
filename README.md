@@ -20,3 +20,6 @@ Desarrollar una aplicación en Java que permita:
 - NetBeans IDE  
 - Programación Orientada a Objetos (POO)  
 - Git y GitHub para control de versiones  
+
+##  Diagrama de Clases
+![Diagrama de Clases](diagrama/FeriaEmpresarial.jpg)
